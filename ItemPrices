@@ -1,4 +1,5 @@
 
+
 ID: 1 | ItemName: Stone | BuyPrice: 16.00 | SellPrice: 4.00 | BuyPrice64: 1024.00 | SellPrice64: 256.00 | WhereToBuy: /shop | Category: Raw Material
 ID: 2 | ItemName: Polished Andesite | BuyPrice: 64.00 | SellPrice: 8.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: /shop | Category: Raw Material
 ID: 3 | ItemName: Dirt | BuyPrice: 2.00 | SellPrice: 1.00 | BuyPrice64: 128.00 | SellPrice64: 64.00 | WhereToBuy: /shop | Category: Raw Material
@@ -7,14 +8,14 @@ ID: 4 | ItemName: Cobblestone | BuyPrice: 4.00 | SellPrice: 2.00 | BuyPrice64: 2
 ID: 5 | ItemName: Wooden Plank (Oak) | BuyPrice: 9.00 | SellPrice: 4.50 | BuyPrice64: 576.00 | SellPrice64: 288.00 | WhereToBuy: /shop | Category: Processed Materials
 ID: 5:1 | ItemName: Wooden Plank (Spruce) | BuyPrice: 9.00 | SellPrice: 4.50 | BuyPrice64: 576.00 | SellPrice64: 288.00 | WhereToBuy: /shop | Category: Processed Materials
 ID: 5:2 | ItemName: Wooden Plank (Birch) | BuyPrice: 9.00 | SellPrice: 4.50 | BuyPrice64: 576.00 | SellPrice64: 288.00 | WhereToBuy: /shop | Category: Processed Materials
-ID: 5:3 | ItemName: Wooden Plank (Jungle) | BuyPrice: 9.00 | SellPrice: 5.50 | BuyPrice64: 576.00 | SellPrice64: 288.00 | WhereToBuy: /shop | Category: Processed Materials
+ID: 5:3 | ItemName: Wooden Plank (Jungle) | BuyPrice: 9.00 | SellPrice: 4.50 | BuyPrice64: 576.00 | SellPrice64: 288.00 | WhereToBuy: /shop | Category: Processed Materials
 ID: 5:4 | ItemName: Wooden Plank (Acacia) | BuyPrice: 9.00 | SellPrice: 4.50 | BuyPrice64: 576.00 | SellPrice64: 288.00 | WhereToBuy: /shop | Category: Processed Materials
 ID: 5:5 | ItemName: Wooden Plank (Dark Oak) | BuyPrice: 9.00 | SellPrice: 4.50 | BuyPrice64: 576.00 | SellPrice64: 288.00 | WhereToBuy: /shop | Category: Processed Materials
 ID: 6 | ItemName: Sapling (Oak) | BuyPrice: 20.00 | SellPrice: 10.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: /shop | Category: Plants & Farming
-ID: 6:1 | ItemName: Sapling (Spruce) | BuyPrice: 20.00 | SellPrice: 150.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: /shop | Category: Plants & Farming
-ID: 6:2 | ItemName: Sapling (Birch) | BuyPrice: 20.00 | SellPrice: 150.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: /shop | Category: Plants & Farming
-ID: 6:3 | ItemName: Sapling (Jungle) | BuyPrice: 20.00 | SellPrice: 150.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: /shop | Category: Plants & Farming
-ID: 6:4 | ItemName: Sapling (Acacia) | BuyPrice: 20.00 | SellPrice: 150.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: /shop | Category: Plants & Farming
+ID: 6:1 | ItemName: Sapling (Spruce) | BuyPrice: 20.00 | SellPrice: 10.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: /shop | Category: Plants & Farming
+ID: 6:2 | ItemName: Sapling (Birch) | BuyPrice: 20.00 | SellPrice: 10.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: /shop | Category: Plants & Farming
+ID: 6:3 | ItemName: Sapling (Jungle) | BuyPrice: 20.00 | SellPrice: 10.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: /shop | Category: Plants & Farming
+ID: 6:4 | ItemName: Sapling (Acacia) | BuyPrice: 20.00 | SellPrice: 10.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: /shop | Category: Plants & Farming
 ID: 6:5 | ItemName: Sapling (Dark Oak) | BuyPrice: 20.00 | SellPrice: 10.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: /shop | Category: Plants & Farming
 ID: 7 | ItemName: Bedrock | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
 ID: 8 | ItemName: Water | BuyPrice: 50.00 | SellPrice: 25.00 | BuyPrice64: 3200.00 | SellPrice64: 1600.00 | WhereToBuy: | Category: Raw Material
@@ -37,23 +38,23 @@ ID: 18 | ItemName: Leaves (Oak) | BuyPrice: 20.00 | SellPrice: 10.00 | BuyPrice6
 ID: 18:1 | ItemName: Leaves (Spruce) | BuyPrice: 20.00 | SellPrice: 10.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: | Category: Plants & Farming
 ID: 18:2 | ItemName: Leaves (Birch) | BuyPrice: 20.00 | SellPrice: 10.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: | Category: Plants & Farming
 ID: 18:3 | ItemName: Leaves (Jungle) | BuyPrice: 20.00 | SellPrice: 10.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: | Category: Plants & Farming
-ID: 19 | ItemName: Sponge | BuyPrice: 20.00 | SellPrice: 10.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: | Category: Raw Material
+ID: 19 | ItemName: Sponge | BuyPrice: 10000.00 | SellPrice: 5000.00 | BuyPrice64: 640000.00 | SellPrice64: 320000.00 | WhereToBuy: | Category: Raw Material
 ID: 20 | ItemName: Glass | BuyPrice: 20.00 | SellPrice: 10.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: | Category: Raw Material
-ID: 21 | ItemName: Lapis Lazuli Ore | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
-ID: 22 | ItemName: Lapis Lazuli Block | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
-ID: 23 | ItemName: Dispenser | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
-ID: 24 | ItemName: Sandstone | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 24:1 | ItemName: Sandstone (Chiseled) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 24:2 | ItemName: Sandstone (Smooth) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 25 | ItemName: Note Block | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
-ID: 27 | ItemName: Rail (Powered) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
-ID: 28 | ItemName: Rail (Detector) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
-ID: 29 | ItemName: Sticky Piston | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
-ID: 30 | ItemName: Cobweb | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 31:1 | ItemName: Tall Grass | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 31:2 | ItemName: Tall Grass (Fern) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 32 | ItemName: Dead Shrub | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 33 | ItemName: Piston | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
+ID: 21 | ItemName: Lapis Lazuli Ore | BuyPrice: 210.00 | SellPrice: 105.00 | BuyPrice64: 13440.00 | SellPrice64: 6720.00 | WhereToBuy: | Category: Raw Material
+ID: 22 | ItemName: Lapis Lazuli Block | BuyPrice: 252.50 | SellPrice: 126.25 | BuyPrice64: 16160.00 | SellPrice64: 8080.00 | WhereToBuy: | Category: Raw Material
+ID: 23 | ItemName: Dispenser | BuyPrice: 91.50 | SellPrice: 45.75 | BuyPrice64: 5856.00 | SellPrice64: 2928.00 | WhereToBuy: | Category: Redstone
+ID: 24 | ItemName: Sandstone | BuyPrice: 21.00 | SellPrice: 10.50 | BuyPrice64: 1344.00 | SellPrice64: 672.00 | WhereToBuy: | Category: Processed Materials
+ID: 24:1 | ItemName: Sandstone (Chiseled) | BuyPrice: 36.00 | SellPrice: 18.00 | BuyPrice64: 2304.00 | SellPrice64: 1152.00 | WhereToBuy: | Category: Processed Materials
+ID: 24:2 | ItemName: Sandstone (Smooth) | BuyPrice: 26.00 | SellPrice: 13.00 | BuyPrice64: 1664.00 | SellPrice64: 832.00 | WhereToBuy: | Category: Processed Materials
+ID: 25 | ItemName: Note Block | BuyPrice: 87.00 | SellPrice: 43.50 | BuyPrice64: 5568.00 | SellPrice64: 2784.00 | WhereToBuy: | Category: Redstone
+ID: 27 | ItemName: Rail (Powered) | BuyPrice: 1230.50 | SellPrice: 615.25 | BuyPrice64: 78752.00 | SellPrice64: 39376.00 | WhereToBuy: | Category: Redstone
+ID: 28 | ItemName: Rail (Detector) | BuyPrice: 781.00 | SellPrice: 390.50 | BuyPrice64: 49984.00 | SellPrice64: 24992.00 | WhereToBuy: | Category: Redstone
+ID: 29 | ItemName: Sticky Piston | BuyPrice: 204.50 | SellPrice: 102.25 | BuyPrice64: 13088.00 | SellPrice64: 6544.00 | WhereToBuy: | Category: Redstone
+ID: 30 | ItemName: Cobweb | BuyPrice: 10.00 | SellPrice: 5.00 | BuyPrice64: 640.00 | SellPrice64: 320.00 | WhereToBuy: | Category: Decoration
+ID: 31:1 | ItemName: Tall Grass | BuyPrice: 10.00 | SellPrice: 5.00 | BuyPrice64: 640.00 | SellPrice64: 320.00 | WhereToBuy: | Category: Plants & Farming
+ID: 31:2 | ItemName: Tall Grass (Fern) | BuyPrice: 10.00 | SellPrice: 5.00 | BuyPrice64: 640.00 | SellPrice64: 320.00 | WhereToBuy: | Category: Plants & Farming
+ID: 32 | ItemName: Dead Shrub | BuyPrice: 12.00 | SellPrice: 6.00 | BuyPrice64: 768.00 | SellPrice64: 384.00 | WhereToBuy: | Category: Plants & Farming
+ID: 33 | ItemName: Piston | BuyPrice: 179.50 | SellPrice: 89.75 | BuyPrice64: 11488.00 | SellPrice64: 5744.00 | WhereToBuy: | Category: Redstone
 ID: 35 | ItemName: Wool | BuyPrice: 35.00 | SellPrice: 17.50 | BuyPrice64: 2240.00 | SellPrice64: 1120.00 | WhereToBuy: | Category: Decoration
 ID: 35:1 | ItemName: Orange Wool | BuyPrice: 41.88 | SellPrice: 20.94 | BuyPrice64: 2680.00 | SellPrice64: 1340.00 | WhereToBuy: | Category: Decoration
 ID: 35:2 | ItemName: Magenta Wool | BuyPrice: 42.56 | SellPrice: 21.28 | BuyPrice64: 2724.00 | SellPrice64: 1362.00 | WhereToBuy: | Category: Decoration
@@ -70,66 +71,66 @@ ID: 35:12 | ItemName: Brown Wool | BuyPrice: 40.50 | SellPrice: 20.25 | BuyPrice
 ID: 35:13 | ItemName: Green Wool | BuyPrice: 41.38 | SellPrice: 20.69 | BuyPrice64: 2648.00 | SellPrice64: 1324.00 | WhereToBuy: | Category: Decoration
 ID: 35:14 | ItemName: Red Wool | BuyPrice: 41.88 | SellPrice: 20.94 | BuyPrice64: 2680.00 | SellPrice64: 1340.00 | WhereToBuy: | Category: Decoration
 ID: 35:15 | ItemName: Black Wool | BuyPrice: 43.13 | SellPrice: 21.56 | BuyPrice64: 2760.00 | SellPrice64: 1380.00 | WhereToBuy: | Category: Decoration
-ID: 37 | ItemName: Dandelion | BuyPrice: 10.00 | SellPrice: 0.00 | BuyPrice64: 640.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 38 | ItemName: Poppy | BuyPrice: 10.00 | SellPrice: 0.00 | BuyPrice64: 640.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 38:1 | ItemName: Blue Orchid | BuyPrice: 15.00 | SellPrice: 0.00 | BuyPrice64: 960.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 38:2 | ItemName: Allium | BuyPrice: 15.00 | SellPrice: 0.00 | BuyPrice64: 960.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 38:4 | ItemName: Red Tulip | BuyPrice: 15.00 | SellPrice: 0.00 | BuyPrice64: 960.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 38:5 | ItemName: Orange Tulip | BuyPrice: 15.00 | SellPrice: 0.00 | BuyPrice64: 960.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 38:6 | ItemName: White Tulip | BuyPrice: 15.00 | SellPrice: 0.00 | BuyPrice64: 960.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 38:7 | ItemName: Pink Tulip | BuyPrice: 15.00 | SellPrice: 0.00 | BuyPrice64: 960.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 38:8 | ItemName: Oxeye Daisy | BuyPrice: 15.00 | SellPrice: 0.00 | BuyPrice64: 960.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 39 | ItemName: Brown Mushroom | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 40 | ItemName: Red Mushroom | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 41 | ItemName: Block of Gold | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 42 | ItemName: Block of Iron | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
+ID: 37 | ItemName: Dandelion | BuyPrice: 10.00 | SellPrice: 5.00 | BuyPrice64: 640.00 | SellPrice64: 320.00 | WhereToBuy: | Category: Plants & Farming
+ID: 38 | ItemName: Poppy | BuyPrice: 10.00 | SellPrice: 5.00 | BuyPrice64: 640.00 | SellPrice64: 320.00 | WhereToBuy: | Category: Plants & Farming
+ID: 38:1 | ItemName: Blue Orchid | BuyPrice: 15.00 | SellPrice: 7.50 | BuyPrice64: 960.00 | SellPrice64: 480.00 | WhereToBuy: | Category: Plants & Farming
+ID: 38:2 | ItemName: Allium | BuyPrice: 15.00 | SellPrice: 7.50 | BuyPrice64: 960.00 | SellPrice64: 480.00 | WhereToBuy: | Category: Plants & Farming
+ID: 38:4 | ItemName: Red Tulip | BuyPrice: 15.00 | SellPrice: 7.50 | BuyPrice64: 960.00 | SellPrice64: 480.00 | WhereToBuy: | Category: Plants & Farming
+ID: 38:5 | ItemName: Orange Tulip | BuyPrice: 15.00 | SellPrice: 7.50 | BuyPrice64: 960.00 | SellPrice64: 480.00 | WhereToBuy: | Category: Plants & Farming
+ID: 38:6 | ItemName: White Tulip | BuyPrice: 15.00 | SellPrice: 7.50 | BuyPrice64: 960.00 | SellPrice64: 480.00 | WhereToBuy: | Category: Plants & Farming
+ID: 38:7 | ItemName: Pink Tulip | BuyPrice: 15.00 | SellPrice: 7.50 | BuyPrice64: 960.00 | SellPrice64: 480.00 | WhereToBuy: | Category: Plants & Farming
+ID: 38:8 | ItemName: Oxeye Daisy | BuyPrice: 15.00 | SellPrice: 7.50 | BuyPrice64: 960.00 | SellPrice64: 480.00 | WhereToBuy: | Category: Plants & Farming
+ID: 39 | ItemName: Brown Mushroom | BuyPrice: 7.00 | SellPrice: 3.50 | BuyPrice64: 448.00 | SellPrice64: 224.00 | WhereToBuy: | Category: Plants & Farming
+ID: 40 | ItemName: Red Mushroom | BuyPrice: 7.00 | SellPrice: 3.50 | BuyPrice64: 448.00 | SellPrice64: 224.00 | WhereToBuy: | Category: Plants & Farming
+ID: 41 | ItemName: Block of Gold | BuyPrice: 1814.00 | SellPrice: 907.00 | BuyPrice64: 116096.00 | SellPrice64: 58048.00 | WhereToBuy: | Category: Processed Materials
+ID: 42 | ItemName: Block of Iron | BuyPrice: 1098.50 | SellPrice: 549.25 | BuyPrice64: 70304.00 | SellPrice64: 35152.00 | WhereToBuy: | Category: Processed Materials
 ID: 43 | ItemName: Stone Slab (Double) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
 ID: 44 | ItemName: Stone Slab | BuyPrice: 13.00 | SellPrice: 6.50 | BuyPrice64: 832.00 | SellPrice64: 416.00 | WhereToBuy: | Category: Processed Materials
-ID: 44:1 | ItemName: Sandstone Slab | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 44:2 | ItemName: Wooden Slab | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 44:3 | ItemName: Cobblestone Slab | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 44:4 | ItemName: Brick Slab | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 44:5 | ItemName: Stone Brick Slab | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
+ID: 44:1 | ItemName: Sandstone Slab | BuyPrice: 15.50 | SellPrice: 7.75 | BuyPrice64: 992.00 | SellPrice64: 496.00 | WhereToBuy: | Category: Processed Materials
+ID: 44:2 | ItemName: Wooden Slab | BuyPrice: 9.50 | SellPrice: 4.75 | BuyPrice64: 608.00 | SellPrice64: 304.00 | WhereToBuy: | Category: Processed Materials
+ID: 44:3 | ItemName: Cobblestone Slab | BuyPrice: 7.00 | SellPrice: 3.50 | BuyPrice64: 448.00 | SellPrice64: 224.00 | WhereToBuy: | Category: Processed Materials
+ID: 44:4 | ItemName: Brick Slab | BuyPrice: 48.50 | SellPrice: 24.25 | BuyPrice64: 3104.00 | SellPrice64: 1552.00 | WhereToBuy: | Category: Processed Materials
+ID: 44:5 | ItemName: Stone Brick Slab | BuyPrice: 15.50 | SellPrice: 7.75 | BuyPrice64: 992.00 | SellPrice64: 496.00 | WhereToBuy: | Category: Processed Materials
 ID: 44:6 | ItemName: Nether Brick Slab | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 44:7 | ItemName: Quartz Slab | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 45 | ItemName: Brick | BuyPrice: 40.00 | SellPrice: 20.00 | BuyPrice64: 2560.00 | SellPrice64: 1280.00 | WhereToBuy: | Category: Processed Materials
-ID: 46 | ItemName: TNT | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 47 | ItemName: Bookshelf | BuyPrice: 146.00 | SellPrice: 0.00 | BuyPrice64: 9344.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 48 | ItemName: Moss Stone | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
+ID: 44:7 | ItemName: Quartz Slab | BuyPrice: 57.50 | SellPrice: 28.75 | BuyPrice64: 3680.00 | SellPrice64: 1840.00 | WhereToBuy: | Category: Processed Materials
+ID: 45 | ItemName: Brick | BuyPrice: 77.00 | SellPrice: 38.50 | BuyPrice64: 4928.00 | SellPrice64: 2464.00 | WhereToBuy: | Category: Processed Materials
+ID: 46 | ItemName: TNT | BuyPrice: 71.00 | SellPrice: 35.50 | BuyPrice64: 4544.00 | SellPrice64: 2272.00 | WhereToBuy: | Category: Processed Materials
+ID: 47 | ItemName: Bookshelf | BuyPrice: 170.00 | SellPrice: 85.00 | BuyPrice64: 10880.00 | SellPrice64: 5440.00 | WhereToBuy: | Category: Decoration
+ID: 48 | ItemName: Moss Stone | BuyPrice: 8.00 | SellPrice: 4.00 | BuyPrice64: 512.00 | SellPrice64: 256.00 | WhereToBuy: | Category: Processed Materials
 ID: 49 | ItemName: Obsidian | BuyPrice: 70.00 | SellPrice: 35.00 | BuyPrice64: 4480.00 | SellPrice64: 2240.00 | WhereToBuy: | Category: Mineral Resources
 ID: 50 | ItemName: Torch | BuyPrice: 10.38 | SellPrice: 5.19 | BuyPrice64: 664.00 | SellPrice64: 332.00 | WhereToBuy: | Category: Decoration
-ID: 51 | ItemName: Fire | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
+ID: 51 | ItemName: Fire | BuyPrice: 75.00 | SellPrice: 0.00 | BuyPrice64: 4800.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
 ID: 52 | ItemName: Mob Spawner | BuyPrice: 30000.00 | SellPrice: 0.00 | BuyPrice64: 1920000.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
 ID: 53 | ItemName: Wooden Stairs (Oak) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
 ID: 54 | ItemName: Chest | BuyPrice: 77.00 | SellPrice: 0.00 | BuyPrice64: 4928.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
 ID: 56 | ItemName: Diamond Ore | BuyPrice: 1500.00 | SellPrice: 150.00 | BuyPrice64: 96000.00 | SellPrice64: 9600.00 | WhereToBuy: | Category: Mineral Resources
-ID: 57 | ItemName: Block of Diamond | BuyPrice: 13505.00 | SellPrice: 0.00 | BuyPrice64: 864320.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Mineral Resources
-ID: 58 | ItemName: Workbench | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
-ID: 60 | ItemName: Farmland | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
-ID: 61 | ItemName: Furnace | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
+ID: 57 | ItemName: Block of Diamond | BuyPrice: 13505.00 | SellPrice: 6752.50 | BuyPrice64: 864320.00 | SellPrice64: 432160.00 | WhereToBuy: | Category: Mineral Resources
+ID: 58 | ItemName: Workbench | BuyPrice: 41.00 | SellPrice: 20.50 | BuyPrice64: 2624.00 | SellPrice64: 1312.00 | WhereToBuy: | Category: Special
+ID: 60 | ItemName: Farmland | BuyPrice: 7.00 | SellPrice: 3.50 | BuyPrice64: 448.00 | SellPrice64: 224.00 | WhereToBuy: | Category: Raw Material
+ID: 61 | ItemName: Furnace | BuyPrice: 37.00 | SellPrice: 18.50 | BuyPrice64: 2368.00 | SellPrice64: 1184.00 | WhereToBuy: | Category: Special
 ID: 62 | ItemName: Furnace (Smelting) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
-ID: 65 | ItemName: Ladder | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
-ID: 66 | ItemName: Rail | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
-ID: 67 | ItemName: Cobblestone Stairs | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 69 | ItemName: Lever | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
-ID: 70 | ItemName: Stone Pressure Plate | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
-ID: 72 | ItemName: Wooden Pressure Plate | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
-ID: 73 | ItemName: Redstone Ore | BuyPrice: 60.00 | SellPrice: 0.00 | BuyPrice64: 3840.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Mineral Resources
+ID: 65 | ItemName: Ladder | BuyPrice: 71.50 | SellPrice: 35.75 | BuyPrice64: 4576.00 | SellPrice64: 2288.00 | WhereToBuy: | Category: Special
+ID: 66 | ItemName: Rail | BuyPrice: 743.50 | SellPrice: 371.75 | BuyPrice64: 47584.00 | SellPrice64: 23792.00 | WhereToBuy: | Category: Redstone
+ID: 67 | ItemName: Cobblestone Stairs | BuyPrice: 11.00 | SellPrice: 5.50 | BuyPrice64: 704.00 | SellPrice64: 352.00 | WhereToBuy: | Category: Processed Materials
+ID: 69 | ItemName: Lever | BuyPrice: 18.50 | SellPrice: 9.25 | BuyPrice64: 1184.00 | SellPrice64: 592.00 | WhereToBuy: | Category: Redstone
+ID: 70 | ItemName: Stone Pressure Plate | BuyPrice: 37.00 | SellPrice: 18.50 | BuyPrice64: 2368.00 | SellPrice64: 1184.00 | WhereToBuy: | Category: Redstone
+ID: 72 | ItemName: Wooden Pressure Plate | BuyPrice: 18.00 | SellPrice: 9.00 | BuyPrice64: 1152.00 | SellPrice64: 576.00 | WhereToBuy: | Category: Redstone
+ID: 73 | ItemName: Redstone Ore | BuyPrice: 60.00 | SellPrice: 30.00 | BuyPrice64: 3840.00 | SellPrice64: 1920.00 | WhereToBuy: | Category: Mineral Resources
 ID: 76 | ItemName: Redstone Torch | BuyPrice: 24.50 | SellPrice: 0.00 | BuyPrice64: 1568.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
-ID: 77 | ItemName: Button (Stone) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
+ID: 77 | ItemName: Button (Stone) | BuyPrice: 21.00 | SellPrice: 0.00 | BuyPrice64: 1344.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
 ID: 78 | ItemName: Snow | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Winter Related
-ID: 79 | ItemName: Ice | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Winter Related
+ID: 79 | ItemName: Ice | BuyPrice: 4.00 | SellPrice: 2.00 | BuyPrice64: 256.00 | SellPrice64: 128.00 | WhereToBuy: | Category: Winter Related
 ID: 80 | ItemName: Snow Block | BuyPrice: 25.00 | SellPrice: 12.50 | BuyPrice64: 1600.00 | SellPrice64: 800.00 | WhereToBuy: | Category: Winter Related
 ID: 81 | ItemName: Cactus | BuyPrice: 3.00 | SellPrice: 1.50 | BuyPrice64: 192.00 | SellPrice64: 96.00 | WhereToBuy: | Category: Plants & Farming
 ID: 82 | ItemName: Clay Block | BuyPrice: 15.00 | SellPrice: 7.50 | BuyPrice64: 960.00 | SellPrice64: 480.00 | WhereToBuy: | Category: Raw Material
-ID: 84 | ItemName: Jukebox | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
-ID: 85 | ItemName: Fence | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 86 | ItemName: Pumpkin | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
-ID: 87 | ItemName: Netherrack | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 88 | ItemName: Soul Sand | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
-ID: 89 | ItemName: Glowstone | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 90 | ItemName: Portal | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 91 | ItemName: Jack-O-Lantern | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
+ID: 84 | ItemName: Jukebox | BuyPrice: 1577.00 | SellPrice: 788.50 | BuyPrice64: 100928.00 | SellPrice64: 50464.00 | WhereToBuy: | Category: Redstone
+ID: 85 | ItemName: Fence | BuyPrice: 33.50 | SellPrice: 16.75 | BuyPrice64: 2144.00 | SellPrice64: 1072.00 | WhereToBuy: | Category: Processed Materials
+ID: 86 | ItemName: Pumpkin | BuyPrice: 8.00 | SellPrice: 0.00 | BuyPrice64: 512.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
+ID: 87 | ItemName: Netherrack | BuyPrice: 2.00 | SellPrice: 1.00 | BuyPrice64: 128.00 | SellPrice64: 64.00 | WhereToBuy: | Category: Processed Materials
+ID: 88 | ItemName: Soul Sand | BuyPrice: 5.00 | SellPrice: 2.50 | BuyPrice64: 320.00 | SellPrice64: 160.00 | WhereToBuy: | Category: Raw Material
+ID: 89 | ItemName: Glowstone | BuyPrice: 65.00 | SellPrice: 15.00 | BuyPrice64: 4160.00 | SellPrice64: 960.00 | WhereToBuy: | Category: Processed Materials
+ID: 90 | ItemName: Portal | BuyPrice: 3000.00 | SellPrice: 0.00 | BuyPrice64: 192000.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
+ID: 91 | ItemName: Jack-O-Lantern | BuyPrice: 23.38 | SellPrice: 11.69 | BuyPrice64: 1496.00 | SellPrice64: 748.00 | WhereToBuy: | Category: Special
 ID: 95 | ItemName: Stained Glass (White) | BuyPrice: 25.88 | SellPrice: 12.94 | BuyPrice64: 1656.00 | SellPrice64: 828.00 | WhereToBuy: | Category: Glass
 ID: 95:1 | ItemName: Stained Glass (Orange) | BuyPrice: 26.88 | SellPrice: 13.44 | BuyPrice64: 1720.00 | SellPrice64: 860.00 | WhereToBuy: | Category: Glass
 ID: 95:2 | ItemName: Stained Glass (Magenta) | BuyPrice: 27.56 | SellPrice: 13.78 | BuyPrice64: 1764.00 | SellPrice64: 882.00 | WhereToBuy: | Category: Glass
@@ -146,27 +147,27 @@ ID: 95:12 | ItemName: Stained Glass (Brown) | BuyPrice: 25.50 | SellPrice: 12.75
 ID: 95:13 | ItemName: Stained Glass (Green) | BuyPrice: 21.38 | SellPrice: 10.69 | BuyPrice64: 1368.00 | SellPrice64: 684.00 | WhereToBuy: | Category: Glass
 ID: 95:14 | ItemName: Stained Glass (Red) | BuyPrice: 21.88 | SellPrice: 10.94 | BuyPrice64: 1400.00 | SellPrice64: 700.00 | WhereToBuy: | Category: Glass
 ID: 95:15 | ItemName: Stained Glass (Black) | BuyPrice: 23.13 | SellPrice: 11.56 | BuyPrice64: 1480.00 | SellPrice64: 740.00 | WhereToBuy: | Category: Glass
-ID: 96 | ItemName: Trapdoor | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
+ID: 96 | ItemName: Trapdoor | BuyPrice: 32.00 | SellPrice: 16.00 | BuyPrice64: 2048.00 | SellPrice64: 1024.00 | WhereToBuy: | Category: Redstone
 ID: 97 | ItemName: Monster Egg (Stone) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
 ID: 97:1 | ItemName: Monster Egg (Cobblestone) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
 ID: 97:2 | ItemName: Monster Egg (Stone Brick) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
 ID: 97:3 | ItemName: Monster Egg (Mossy Stone Brick) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
 ID: 97:4 | ItemName: Monster Egg (Cracked Stone) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
 ID: 97:5 | ItemName: Monster Egg (Chiseled Stone) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
-ID: 98 | ItemName: Stone Bricks | BuyPrice: 20.00 | SellPrice: 10.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: | Category: Processed Materials
-ID: 98:1 | ItemName: Mossy Stone Bricks | BuyPrice: 20.00 | SellPrice: 10.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: | Category: Processed Materials
-ID: 98:2 | ItemName: Cracked Stone Bricks | BuyPrice: 20.00 | SellPrice: 10.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: | Category: Processed Materials
-ID: 98:3 | ItemName: Chiseled Stone Brick | BuyPrice: 20.00 | SellPrice: 10.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: | Category: Processed Materials
+ID: 98 | ItemName: Stone Bricks | BuyPrice: 21.00 | SellPrice: 10.50 | BuyPrice64: 1344.00 | SellPrice64: 672.00 | WhereToBuy: | Category: Processed Materials
+ID: 98:1 | ItemName: Mossy Stone Bricks | BuyPrice: 26.00 | SellPrice: 10.00 | BuyPrice64: 1664.00 | SellPrice64: 640.00 | WhereToBuy: | Category: Processed Materials
+ID: 98:2 | ItemName: Cracked Stone Bricks | BuyPrice: 29.00 | SellPrice: 10.00 | BuyPrice64: 1856.00 | SellPrice64: 640.00 | WhereToBuy: | Category: Processed Materials
+ID: 98:3 | ItemName: Chiseled Stone Brick | BuyPrice: 29.00 | SellPrice: 10.00 | BuyPrice64: 1856.00 | SellPrice64: 640.00 | WhereToBuy: | Category: Processed Materials
 ID: 99 | ItemName: Brown Mushroom (Block) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
 ID: 100 | ItemName: Red Mushroom (Block) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 101 | ItemName: Iron Bars | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
+ID: 101 | ItemName: Iron Bars | BuyPrice: 50.56 | SellPrice: 25.28 | BuyPrice64: 3236.00 | SellPrice64: 1618.00 | WhereToBuy: | Category: Processed Materials
 ID: 102 | ItemName: Glass Pane | BuyPrice: 7.50 | SellPrice: 3.75 | BuyPrice64: 480.00 | SellPrice64: 240.00 | WhereToBuy: | Category: Glass
 ID: 103 | ItemName: Melon (Block) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
 ID: 106 | ItemName: Vines | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 107 | ItemName: Fence Gate | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
-ID: 108 | ItemName: Brick Stairs | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 109 | ItemName: Stone Brick Stairs | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 110 | ItemName: Mycelium | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
+ID: 107 | ItemName: Fence Gate | BuyPrice: 61.00 | SellPrice: 30.50 | BuyPrice64: 3904.00 | SellPrice64: 1952.00 | WhereToBuy: | Category: Redstone
+ID: 108 | ItemName: Brick Stairs | BuyPrice: 120.50 | SellPrice: 60.25 | BuyPrice64: 7712.00 | SellPrice64: 3856.00 | WhereToBuy: | Category: Processed Materials
+ID: 109 | ItemName: Stone Brick Stairs | BuyPrice: 36.50 | SellPrice: 18.25 | BuyPrice64: 2336.00 | SellPrice64: 1168.00 | WhereToBuy: | Category: Processed Materials
+ID: 110 | ItemName: Mycelium | BuyPrice: 128.00 | SellPrice: 0.00 | BuyPrice64: 8192.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
 ID: 111 | ItemName: Lily Pad | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
 ID: 112 | ItemName: Nether Brick | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
 ID: 113 | ItemName: Nether Brick Fence | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
@@ -178,17 +179,17 @@ ID: 121 | ItemName: End Stone | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0
 ID: 122 | ItemName: Dragon Egg | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Eggs
 ID: 123 | ItemName: Redstone Lamp | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
 ID: 125 | ItemName: Oak-Wood Slab (Double) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 126 | ItemName: Oak-Wood Slab | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 126:1 | ItemName: Spruce-Wood Slab | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 126:2 | ItemName: Birch-Wood Slab | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 126:3 | ItemName: Jungle-Wood Slab | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 126:4 | ItemName: Acacia Wood Slab | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 126:5 | ItemName: Dark Oak Wood Slab | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 128 | ItemName: Sandstone Stairs | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 129 | ItemName: Emerald Ore | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Mineral Resources
-ID: 130 | ItemName: Ender Chest | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
+ID: 126 | ItemName: Oak-Wood Slab | BuyPrice: 9.50 | SellPrice: 4.75 | BuyPrice64: 608.00 | SellPrice64: 304.00 | WhereToBuy: | Category: Processed Materials
+ID: 126:1 | ItemName: Spruce-Wood Slab | BuyPrice: 9.50 | SellPrice: 4.75 | BuyPrice64: 608.00 | SellPrice64: 304.00 | WhereToBuy: | Category: Processed Materials
+ID: 126:2 | ItemName: Birch-Wood Slab | BuyPrice: 9.50 | SellPrice: 4.75 | BuyPrice64: 608.00 | SellPrice64: 304.00 | WhereToBuy: | Category: Processed Materials
+ID: 126:3 | ItemName: Jungle-Wood Slab | BuyPrice: 9.50 | SellPrice: 4.75 | BuyPrice64: 608.00 | SellPrice64: 304.00 | WhereToBuy: | Category: Processed Materials
+ID: 126:4 | ItemName: Acacia Wood Slab | BuyPrice: 9.50 | SellPrice: 4.75 | BuyPrice64: 608.00 | SellPrice64: 304.00 | WhereToBuy: | Category: Processed Materials
+ID: 126:5 | ItemName: Dark Oak Wood Slab | BuyPrice: 9.50 | SellPrice: 4.75 | BuyPrice64: 608.00 | SellPrice64: 304.00 | WhereToBuy: | Category: Processed Materials
+ID: 128 | ItemName: Sandstone Stairs | BuyPrice: 36.50 | SellPrice: 0.00 | BuyPrice64: 2336.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
+ID: 129 | ItemName: Emerald Ore | BuyPrice: 800.00 | SellPrice: 0.00 | BuyPrice64: 51200.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Mineral Resources
+ID: 130 | ItemName: Ender Chest | BuyPrice: 670.00 | SellPrice: 0.00 | BuyPrice64: 42880.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
 ID: 131 | ItemName: Tripwire Hook | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
-ID: 133 | ItemName: Block of Emerald | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
+ID: 133 | ItemName: Block of Emerald | BuyPrice: 7205.00 | SellPrice: 0.00 | BuyPrice64: 461120.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
 ID: 134 | ItemName: Wooden Stairs (Spruce) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
 ID: 135 | ItemName: Wooden Stairs (Birch) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
 ID: 136 | ItemName: Wooden Stairs (Jungle) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
@@ -206,12 +207,12 @@ ID: 151 | ItemName: Daylight Sensor | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPric
 ID: 152 | ItemName: Block of Redstone | BuyPrice: 95.00 | SellPrice: 0.00 | BuyPrice64: 6080.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
 ID: 153 | ItemName: Nether Quartz Ore | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Mineral Resources
 ID: 154 | ItemName: Hopper | BuyPrice: 689.50 | SellPrice: 344.75 | BuyPrice64: 44128.00 | SellPrice64: 22064.00 | WhereToBuy: | Category: Redstone
-ID: 155 | ItemName: Quartz Block | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 155:1 | ItemName: Chiseled Quartz Block | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 155:2 | ItemName: Pillar Quartz Block | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 156 | ItemName: Quartz Stairs | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 157 | ItemName: Rail (Activator) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
-ID: 158 | ItemName: Dropper | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
+ID: 155 | ItemName: Quartz Block | BuyPrice: 105.00 | SellPrice: 52.50 | BuyPrice64: 6720.00 | SellPrice64: 3360.00 | WhereToBuy: | Category: Processed Materials
+ID: 155:1 | ItemName: Chiseled Quartz Block | BuyPrice: 120.00 | SellPrice: 60.00 | BuyPrice64: 7680.00 | SellPrice64: 3840.00 | WhereToBuy: | Category: Processed Materials
+ID: 155:2 | ItemName: Pillar Quartz Block | BuyPrice: 110.00 | SellPrice: 55.00 | BuyPrice64: 7040.00 | SellPrice64: 3520.00 | WhereToBuy: | Category: Processed Materials
+ID: 156 | ItemName: Quartz Stairs | BuyPrice: 162.50 | SellPrice: 0.00 | BuyPrice64: 10400.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
+ID: 157 | ItemName: Rail (Activator) | BuyPrice: 777.50 | SellPrice: 0.00 | BuyPrice64: 49760.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
+ID: 158 | ItemName: Dropper | BuyPrice: 43.00 | SellPrice: 0.00 | BuyPrice64: 2752.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
 ID: 159 | ItemName: Stained Clay (White) | BuyPrice: 23.88 | SellPrice: 11.94 | BuyPrice64: 1528.00 | SellPrice64: 764.00 | WhereToBuy: | Category: Decoration
 ID: 159:1 | ItemName: Stained Clay (Orange) | BuyPrice: 26.36 | SellPrice: 13.18 | BuyPrice64: 1687.00 | SellPrice64: 843.50 | WhereToBuy: | Category: Decoration
 ID: 159:2 | ItemName: Stained Clay (Magenta) | BuyPrice: 26.45 | SellPrice: 13.22 | BuyPrice64: 1692.50 | SellPrice64: 846.25 | WhereToBuy: | Category: Decoration
@@ -244,40 +245,40 @@ ID: 160:12 | ItemName: Stained Glass Pane (Brown) | BuyPrice: 14.56 | SellPrice:
 ID: 160:13 | ItemName: Stained Glass Pane (Green) | BuyPrice: 13.02 | SellPrice: 6.51 | BuyPrice64: 833.00 | SellPrice64: 416.50 | WhereToBuy: | Category: Glass
 ID: 160:14 | ItemName: Stained Glass Pane (Red) | BuyPrice: 13.20 | SellPrice: 6.60 | BuyPrice64: 845.00 | SellPrice64: 422.50 | WhereToBuy: | Category: Glass
 ID: 160:15 | ItemName: Stained Glass Pane (Black) | BuyPrice: 13.67 | SellPrice: 6.84 | BuyPrice64: 875.00 | SellPrice64: 437.50 | WhereToBuy: | Category: Glass
-ID: 162 | ItemName: Wood (Acacia Oak) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
-ID: 162:1 | ItemName: Wood (Dark Oak) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
+ID: 162 | ItemName: Wood (Acacia Oak) | BuyPrice: 4.00 | SellPrice: 2.00 | BuyPrice64: 256.00 | SellPrice64: 128.00 | WhereToBuy: | Category: Raw Material
+ID: 162:1 | ItemName: Wood (Dark Oak) | BuyPrice: 4.00 | SellPrice: 2.00 | BuyPrice64: 256.00 | SellPrice64: 128.00 | WhereToBuy: | Category: Raw Material
 ID: 163 | ItemName: Wooden Stairs (Acacia) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
 ID: 164 | ItemName: Wooden Stairs (Dark Oak) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 170 | ItemName: Hay Bale | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 171 | ItemName: Carpet (White) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 171:1 | ItemName: Carpet (Orange) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 171:2 | ItemName: Carpet (Magenta) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 171:3 | ItemName: Carpet (Light Blue) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 171:4 | ItemName: Carpet (Yellow) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 171:5 | ItemName: Carpet (Lime) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 171:6 | ItemName: Carpet (Pink) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 171:7 | ItemName: Carpet (Grey) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 171:8 | ItemName: Carpet (Light Gray) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 171:9 | ItemName: Carpet (Cyan) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 171:10 | ItemName: Carpet (Purple) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 171:11 | ItemName: Carpet (Blue) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 171:12 | ItemName: Carpet (Brown) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 171:13 | ItemName: Carpet (Green) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 171:14 | ItemName: Carpet (Red) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 171:15 | ItemName: Carpet (Black) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
+ID: 170 | ItemName: Hay Bale | BuyPrice: 23.00 | SellPrice: 11.50 | BuyPrice64: 1472.00 | SellPrice64: 736.00 | WhereToBuy: | Category: Processed Materials
+ID: 171 | ItemName: Carpet (White) | BuyPrice: 28.33 | SellPrice: 14.17 | BuyPrice64: 1813.33 | SellPrice64: 906.67 | WhereToBuy: | Category: Decoration
+ID: 171:1 | ItemName: Carpet (Orange) | BuyPrice: 32.92 | SellPrice: 16.46 | BuyPrice64: 2106.67 | SellPrice64: 1053.33 | WhereToBuy: | Category: Decoration
+ID: 171:2 | ItemName: Carpet (Magenta) | BuyPrice: 33.38 | SellPrice: 16.69 | BuyPrice64: 2136.00 | SellPrice64: 1068.00 | WhereToBuy: | Category: Decoration
+ID: 171:3 | ItemName: Carpet (Light Blue) | BuyPrice: 34.75 | SellPrice: 17.38 | BuyPrice64: 2224.00 | SellPrice64: 1112.00 | WhereToBuy: | Category: Decoration
+ID: 171:4 | ItemName: Carpet (Yellow) | BuyPrice: 32.92 | SellPrice: 16.46 | BuyPrice64: 2106.67 | SellPrice64: 1053.33 | WhereToBuy: | Category: Decoration
+ID: 171:5 | ItemName: Carpet (Lime) | BuyPrice: 33.17 | SellPrice: 16.58 | BuyPrice64: 2122.67 | SellPrice64: 1061.33 | WhereToBuy: | Category: Decoration
+ID: 171:6 | ItemName: Carpet (Pink) | BuyPrice: 33.50 | SellPrice: 16.75 | BuyPrice64: 2144.00 | SellPrice64: 1072.00 | WhereToBuy: | Category: Decoration
+ID: 171:7 | ItemName: Carpet (Grey) | BuyPrice: 33.21 | SellPrice: 16.60 | BuyPrice64: 2125.33 | SellPrice64: 1062.67 | WhereToBuy: | Category: Decoration
+ID: 171:8 | ItemName: Carpet (Light Gray) | BuyPrice: 32.89 | SellPrice: 16.44 | BuyPrice64: 2104.89 | SellPrice64: 1052.44 | WhereToBuy: | Category: Decoration
+ID: 171:9 | ItemName: Carpet (Cyan) | BuyPrice: 33.54 | SellPrice: 16.77 | BuyPrice64: 2146.67 | SellPrice64: 1073.33 | WhereToBuy: | Category: Decoration
+ID: 171:10 | ItemName: Carpet (Purple) | BuyPrice: 33.96 | SellPrice: 16.98 | BuyPrice64: 2173.33 | SellPrice64: 1086.67 | WhereToBuy: | Category: Decoration
+ID: 171:11 | ItemName: Carpet (Blue) | BuyPrice: 34.17 | SellPrice: 17.08 | BuyPrice64: 2186.67 | SellPrice64: 1093.33 | WhereToBuy: | Category: Decoration
+ID: 171:12 | ItemName: Carpet (Brown) | BuyPrice: 32.00 | SellPrice: 16.00 | BuyPrice64: 2048.00 | SellPrice64: 1024.00 | WhereToBuy: | Category: Decoration
+ID: 171:13 | ItemName: Carpet (Green) | BuyPrice: 32.58 | SellPrice: 16.29 | BuyPrice64: 2085.33 | SellPrice64: 1042.67 | WhereToBuy: | Category: Decoration
+ID: 171:14 | ItemName: Carpet (Red) | BuyPrice: 32.92 | SellPrice: 16.46 | BuyPrice64: 2106.67 | SellPrice64: 1053.33 | WhereToBuy: | Category: Decoration
+ID: 171:15 | ItemName: Carpet (Black) | BuyPrice: 33.75 | SellPrice: 16.88 | BuyPrice64: 2160.00 | SellPrice64: 1080.00 | WhereToBuy: | Category: Decoration
 ID: 172 | ItemName: Hardened Clay | BuyPrice: 18.00 | SellPrice: 0.00 | BuyPrice64: 1152.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 173 | ItemName: Block of Coal | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Mineral Resources
-ID: 174 | ItemName: Packed Ice | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Winter Related
+ID: 173 | ItemName: Block of Coal | BuyPrice: 113.00 | SellPrice: 0.00 | BuyPrice64: 7232.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Mineral Resources
+ID: 174 | ItemName: Packed Ice | BuyPrice: 10.00 | SellPrice: 5.00 | BuyPrice64: 640.00 | SellPrice64: 320.00 | WhereToBuy: | Category: Winter Related
 ID: 175 | ItemName: Sunflower | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
 ID: 175:1 | ItemName: Lilac | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
 ID: 175:2 | ItemName: Double Tallgrass | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
 ID: 175:3 | ItemName: Large Fern | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
 ID: 175:4 | ItemName: Rose Bush | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
 ID: 175:5 | ItemName: Peony | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 256 | ItemName: Iron Shovel | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Tools
-ID: 257 | ItemName: Iron Pickaxe | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Tools
-ID: 258 | ItemName: Iron Axe | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Tools
-ID: 259 | ItemName: Flint and Steel | BuyPrice: 141.50 | SellPrice: 0.00 | BuyPrice64: 9056.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
+ID: 256 | ItemName: Iron Shovel | BuyPrice: 136.00 | SellPrice: 68.00 | BuyPrice64: 8704.00 | SellPrice64: 4352.00 | WhereToBuy: | Category: Tools
+ID: 257 | ItemName: Iron Pickaxe | BuyPrice: 379.00 | SellPrice: 189.50 | BuyPrice64: 24256.00 | SellPrice64: 12128.00 | WhereToBuy: | Category: Tools
+ID: 258 | ItemName: Iron Axe | BuyPrice: 379.00 | SellPrice: 189.50 | BuyPrice64: 24256.00 | SellPrice64: 12128.00 | WhereToBuy: | Category: Tools
+ID: 259 | ItemName: Flint and Steel | BuyPrice: 141.50 | SellPrice: 70.75 | BuyPrice64: 9056.00 | SellPrice64: 4528.00 | WhereToBuy: | Category: Special
 ID: 260 | ItemName: Apple | BuyPrice: 50.00 | SellPrice: 25.00 | BuyPrice64: 3200.00 | SellPrice64: 1600.00 | WhereToBuy: | Category: Food
 ID: 261 | ItemName: Bow | BuyPrice: 48.50 | SellPrice: 0.00 | BuyPrice64: 3104.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Fighting Equipment
 ID: 262 | ItemName: Arrow | BuyPrice: 34.50 | SellPrice: 0.00 | BuyPrice64: 2208.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Fighting Equipment
@@ -301,34 +302,34 @@ ID: 278 | ItemName: Diamond Pickaxe | BuyPrice: 4524.00 | SellPrice: 2262.00 | B
 ID: 279 | ItemName: Diamond Axe | BuyPrice: 4524.00 | SellPrice: 2262.00 | BuyPrice64: 289536.00 | SellPrice64: 144768.00 | WhereToBuy: | Category: Tools
 ID: 280 | ItemName: Stick | BuyPrice: 9.50 | SellPrice: 4.75 | BuyPrice64: 608.00 | SellPrice64: 304.00 | WhereToBuy: | Category: Processed Materials
 ID: 281 | ItemName: Bowl | BuyPrice: 32.00 | SellPrice: 16.00 | BuyPrice64: 2048.00 | SellPrice64: 1024.00 | WhereToBuy: | Category: Processed Materials
-ID: 282 | ItemName: Mushroom Stew | BuyPrice: 37.00 | SellPrice: 18.50 | BuyPrice64: 2368.00 | SellPrice64: 1184.00 | WhereToBuy: | Category: Food
+ID: 282 | ItemName: Mushroom Stew | BuyPrice: 51.00 | SellPrice: 25.50 | BuyPrice64: 3264.00 | SellPrice64: 1632.00 | WhereToBuy: | Category: Food
 ID: 283 | ItemName: Gold Sword | BuyPrice: 416.50 | SellPrice: 208.25 | BuyPrice64: 26656.00 | SellPrice64: 13328.00 | WhereToBuy: | Category: Fighting Equipment
 ID: 284 | ItemName: Gold Shovel | BuyPrice: 225.00 | SellPrice: 112.50 | BuyPrice64: 14400.00 | SellPrice64: 7200.00 | WhereToBuy: | Category: Tools
 ID: 285 | ItemName: Gold Pickaxe | BuyPrice: 627.00 | SellPrice: 313.50 | BuyPrice64: 40128.00 | SellPrice64: 20064.00 | WhereToBuy: | Category: Tools
 ID: 286 | ItemName: Gold Axe | BuyPrice: 627.00 | SellPrice: 313.50 | BuyPrice64: 40128.00 | SellPrice64: 20064.00 | WhereToBuy: | Category: Tools
 ID: 287 | ItemName: String | BuyPrice: 7.50 | SellPrice: 3.75 | BuyPrice64: 480.00 | SellPrice64: 240.00 | WhereToBuy: | Category: Raw Material
 ID: 288 | ItemName: Feather | BuyPrice: 5.00 | SellPrice: 2.50 | BuyPrice64: 320.00 | SellPrice64: 160.00 | WhereToBuy: | Category: Raw Material
-ID: 289 | ItemName: Gunpowder | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
-ID: 290 | ItemName: Wooden Hoe | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Tools
-ID: 291 | ItemName: Stone Hoe | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Tools
-ID: 292 | ItemName: Iron Hoe | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Tools
-ID: 293 | ItemName: Diamond Hoe | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Tools
-ID: 294 | ItemName: Gold Hoe | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Tools
-ID: 295 | ItemName: Wheat Seeds | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
-ID: 296 | ItemName: Wheat | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
-ID: 297 | ItemName: Bread | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
-ID: 298 | ItemName: Leather Helmet | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Armor
-ID: 299 | ItemName: Leather Chestplate | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Armor
-ID: 300 | ItemName: Leather Leggings | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Armor
-ID: 301 | ItemName: Leather Boots | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Armor
-ID: 302 | ItemName: Chainmail Helmet | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Armor
-ID: 303 | ItemName: Chainmail Chestplate | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Armor
-ID: 304 | ItemName: Chainmail Leggings | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Armor
-ID: 305 | ItemName: Chainmail Boots | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Armor
-ID: 306 | ItemName: Iron Helmet | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Armor
-ID: 307 | ItemName: Iron Chestplate | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Armor
-ID: 308 | ItemName: Iron Leggings | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Armor
-ID: 309 | ItemName: Iron Boots | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Armor
+ID: 289 | ItemName: Gunpowder | BuyPrice: 10.00 | SellPrice: 5.00 | BuyPrice64: 640.00 | SellPrice64: 320.00 | WhereToBuy: | Category: Raw Material
+ID: 290 | ItemName: Wooden Hoe | BuyPrice: 42.00 | SellPrice: 21.00 | BuyPrice64: 2688.00 | SellPrice64: 1344.00 | WhereToBuy: | Category: Tools
+ID: 291 | ItemName: Stone Hoe | BuyPrice: 30.00 | SellPrice: 15.00 | BuyPrice64: 1920.00 | SellPrice64: 960.00 | WhereToBuy: | Category: Tools
+ID: 292 | ItemName: Iron Hoe | BuyPrice: 267.00 | SellPrice: 133.50 | BuyPrice64: 17088.00 | SellPrice64: 8544.00 | WhereToBuy: | Category: Tools
+ID: 293 | ItemName: Diamond Hoe | BuyPrice: 3019.00 | SellPrice: 1509.50 | BuyPrice64: 193216.00 | SellPrice64: 96608.00 | WhereToBuy: | Category: Tools
+ID: 294 | ItemName: Gold Hoe | BuyPrice: 421.00 | SellPrice: 210.50 | BuyPrice64: 26944.00 | SellPrice64: 13472.00 | WhereToBuy: | Category: Tools
+ID: 295 | ItemName: Wheat Seeds | BuyPrice: 3.00 | SellPrice: 1.50 | BuyPrice64: 192.00 | SellPrice64: 96.00 | WhereToBuy: | Category: Plants & Farming
+ID: 296 | ItemName: Wheat | BuyPrice: 2.00 | SellPrice: 1.00 | BuyPrice64: 128.00 | SellPrice64: 64.00 | WhereToBuy: | Category: Food
+ID: 297 | ItemName: Bread | BuyPrice: 11.00 | SellPrice: 5.50 | BuyPrice64: 704.00 | SellPrice64: 352.00 | WhereToBuy: | Category: Food
+ID: 298 | ItemName: Leather Helmet | BuyPrice: 45.00 | SellPrice: 22.50 | BuyPrice64: 2880.00 | SellPrice64: 1440.00 | WhereToBuy: | Category: Armor
+ID: 299 | ItemName: Leather Chestplate | BuyPrice: 77.00 | SellPrice: 38.50 | BuyPrice64: 4928.00 | SellPrice64: 2464.00 | WhereToBuy: | Category: Armor
+ID: 300 | ItemName: Leather Leggings | BuyPrice: 61.00 | SellPrice: 30.50 | BuyPrice64: 3904.00 | SellPrice64: 1952.00 | WhereToBuy: | Category: Armor
+ID: 301 | ItemName: Leather Boots | BuyPrice: 37.00 | SellPrice: 18.50 | BuyPrice64: 2368.00 | SellPrice64: 1184.00 | WhereToBuy: | Category: Armor
+ID: 302 | ItemName: Chainmail Helmet | BuyPrice: 380.00 | SellPrice: 190.00 | BuyPrice64: 24320.00 | SellPrice64: 12160.00 | WhereToBuy: | Category: Armor
+ID: 303 | ItemName: Chainmail Chestplate | BuyPrice: 605.00 | SellPrice: 302.50 | BuyPrice64: 38720.00 | SellPrice64: 19360.00 | WhereToBuy: | Category: Armor
+ID: 304 | ItemName: Chainmail Leggings | BuyPrice: 530.00 | SellPrice: 265.00 | BuyPrice64: 33920.00 | SellPrice64: 16960.00 | WhereToBuy: | Category: Armor
+ID: 305 | ItemName: Chainmail Boots | BuyPrice: 305.00 | SellPrice: 152.50 | BuyPrice64: 19520.00 | SellPrice64: 9760.00 | WhereToBuy: | Category: Armor
+ID: 306 | ItemName: Iron Helmet | BuyPrice: 612.50 | SellPrice: 306.25 | BuyPrice64: 39200.00 | SellPrice64: 19600.00 | WhereToBuy: | Category: Armor
+ID: 307 | ItemName: Iron Chestplate | BuyPrice: 977.00 | SellPrice: 488.50 | BuyPrice64: 62528.00 | SellPrice64: 31264.00 | WhereToBuy: | Category: Armor
+ID: 308 | ItemName: Iron Leggings | BuyPrice: 855.50 | SellPrice: 427.75 | BuyPrice64: 54752.00 | SellPrice64: 27376.00 | WhereToBuy: | Category: Armor
+ID: 309 | ItemName: Iron Boots | BuyPrice: 491.00 | SellPrice: 245.50 | BuyPrice64: 31424.00 | SellPrice64: 15712.00 | WhereToBuy: | Category: Armor
 ID: 310 | ItemName: Diamond Helmet | BuyPrice: 7505.00 | SellPrice: 3752.50 | BuyPrice64: 480320.00 | SellPrice64: 240160.00 | WhereToBuy: | Category: Armor
 ID: 311 | ItemName: Diamond Chestplate | BuyPrice: 12005.00 | SellPrice: 6002.50 | BuyPrice64: 768320.00 | SellPrice64: 384160.00 | WhereToBuy: | Category: Armor
 ID: 312 | ItemName: Diamond Leggings | BuyPrice: 10505.00 | SellPrice: 5252.50 | BuyPrice64: 672320.00 | SellPrice64: 336160.00 | WhereToBuy: | Category: Armor
@@ -354,21 +355,21 @@ ID: 330 | ItemName: Iron Door | BuyPrice: 729.00 | SellPrice: 0.00 | BuyPrice64:
 ID: 331 | ItemName: Redstone Dust | BuyPrice: 10.00 | SellPrice: 5.00 | BuyPrice64: 640.00 | SellPrice64: 320.00 | WhereToBuy: | Category: Mineral Resources
 ID: 332 | ItemName: Snowball | BuyPrice: 2.00 | SellPrice: 1.00 | BuyPrice64: 128.00 | SellPrice64: 64.00 | WhereToBuy: | Category: Winter Related
 ID: 333 | ItemName: Boat | BuyPrice: 50.00 | SellPrice: 0.00 | BuyPrice64: 3200.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Transportation
-ID: 334 | ItemName: Leather | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
-ID: 335 | ItemName: Bucket (Milk) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Tools
-ID: 336 | ItemName: Clay Brick | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
+ID: 334 | ItemName: Leather | BuyPrice: 8.00 | SellPrice: 0.00 | BuyPrice64: 512.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
+ID: 335 | ItemName: Bucket (Milk) | BuyPrice: 389.50 | SellPrice: 0.00 | BuyPrice64: 24928.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Tools
+ID: 336 | ItemName: Clay Brick | BuyPrice: 18.00 | SellPrice: 9.00 | BuyPrice64: 1152.00 | SellPrice64: 576.00 | WhereToBuy: | Category: Processed Materials
 ID: 337 | ItemName: Clay | BuyPrice: 15.00 | SellPrice: 7.50 | BuyPrice64: 960.00 | SellPrice64: 480.00 | WhereToBuy: | Category: Raw Material
 ID: 338 | ItemName: Sugar Cane | BuyPrice: 3.00 | SellPrice: 1.50 | BuyPrice64: 192.00 | SellPrice64: 96.00 | WhereToBuy: | Category: Plants & Farming
 ID: 339 | ItemName: Paper | BuyPrice: 8.00 | SellPrice: 4.00 | BuyPrice64: 512.00 | SellPrice64: 256.00 | WhereToBuy: | Category: Processed Materials
-ID: 340 | ItemName: Book | BuyPrice: 29.00 | SellPrice: 14.50 | BuyPrice64: 1856.00 | SellPrice64: 928.00 | WhereToBuy: | Category: Processed Materials
+ID: 340 | ItemName: Book | BuyPrice: 37.00 | SellPrice: 18.50 | BuyPrice64: 2368.00 | SellPrice64: 1184.00 | WhereToBuy: | Category: Processed Materials
 ID: 341 | ItemName: Slime Ball | BuyPrice: 20.00 | SellPrice: 10.00 | BuyPrice64: 1280.00 | SellPrice64: 640.00 | WhereToBuy: | Category: Raw Material
-ID: 342 | ItemName: Minecart (Storage) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Transportation
-ID: 343 | ItemName: Minecart (Powered) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Transportation
-ID: 344 | ItemName: Egg | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
+ID: 342 | ItemName: Minecart (Storage) | BuyPrice: 694.50 | SellPrice: 347.25 | BuyPrice64: 44448.00 | SellPrice64: 22224.00 | WhereToBuy: | Category: Transportation
+ID: 343 | ItemName: Minecart (Powered) | BuyPrice: 654.50 | SellPrice: 327.25 | BuyPrice64: 41888.00 | SellPrice64: 20944.00 | WhereToBuy: | Category: Transportation
+ID: 344 | ItemName: Egg | BuyPrice: 10.00 | SellPrice: 5.00 | BuyPrice64: 640.00 | SellPrice64: 320.00 | WhereToBuy: | Category: Food
 ID: 345 | ItemName: Compass | BuyPrice: 501.00 | SellPrice: 250.50 | BuyPrice64: 32064.00 | SellPrice64: 16032.00 | WhereToBuy: | Category: Tools
 ID: 346 | ItemName: Fishing Rod | BuyPrice: 48.50 | SellPrice: 24.25 | BuyPrice64: 3104.00 | SellPrice64: 1552.00 | WhereToBuy: | Category: Tools
 ID: 347 | ItemName: Watch | BuyPrice: 819.00 | SellPrice: 409.50 | BuyPrice64: 52416.00 | SellPrice64: 26208.00 | WhereToBuy: | Category: Tools
-ID: 348 | ItemName: Glowstone Dust | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Mineral Resources
+ID: 348 | ItemName: Glowstone Dust | BuyPrice: 15.00 | SellPrice: 7.50 | BuyPrice64: 960.00 | SellPrice64: 480.00 | WhereToBuy: | Category: Mineral Resources
 ID: 349 | ItemName: Raw Fish | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
 ID: 349:1 | ItemName: Raw Salmon | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
 ID: 349:2 | ItemName: Clownfish | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
@@ -394,13 +395,13 @@ ID: 351:13 | ItemName: Magenta Dye | BuyPrice: 20.50 | SellPrice: 10.25 | BuyPri
 ID: 351:14 | ItemName: Orange Dye | BuyPrice: 15.00 | SellPrice: 7.50 | BuyPrice64: 960.00 | SellPrice64: 480.00 | WhereToBuy: | Category: Processed Materials
 ID: 351:15 | ItemName: Bone Meal | BuyPrice: 7.00 | SellPrice: 0.33 | BuyPrice64: 448.00 | SellPrice64: 21.33 | WhereToBuy: | Category: Processed Materials
 ID: 352 | ItemName: Bone | BuyPrice: 2.00 | SellPrice: 1.00 | BuyPrice64: 128.00 | SellPrice64: 64.00 | WhereToBuy: | Category: Raw Material
-ID: 353 | ItemName: Sugar | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
-ID: 354 | ItemName: Cake | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
+ID: 353 | ItemName: Sugar | BuyPrice: 8.00 | SellPrice: 0.00 | BuyPrice64: 512.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
+ID: 354 | ItemName: Cake | BuyPrice: 1205.50 | SellPrice: 0.00 | BuyPrice64: 77152.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
 ID: 355 | ItemName: Bed | BuyPrice: 161.38 | SellPrice: 0.00 | BuyPrice64: 10328.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 356 | ItemName: Redstone Repeater | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
-ID: 357 | ItemName: Cookie | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
+ID: 356 | ItemName: Redstone Repeater | BuyPrice: 112.00 | SellPrice: 0.00 | BuyPrice64: 7168.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
+ID: 357 | ItemName: Cookie | BuyPrice: 6.00 | SellPrice: 0.00 | BuyPrice64: 384.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
 ID: 358 | ItemName: Map | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Tools
-ID: 359 | ItemName: Shears | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Tools
+ID: 359 | ItemName: Shears | BuyPrice: 248.00 | SellPrice: 0.00 | BuyPrice64: 15872.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Tools
 ID: 360 | ItemName: Melon (Slice) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
 ID: 361 | ItemName: Pumpkin Seeds | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
 ID: 362 | ItemName: Melon Seeds | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Plants & Farming
@@ -482,13 +483,13 @@ ID: 373:16481 | ItemName: Regeneration Splash II (0:45) | BuyPrice: 0.00 | SellP
 ID: 373:16482 | ItemName: Swiftness Splash II (3:00) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Potions
 ID: 373:16484 | ItemName: Poison Splash II (0:45) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Potions
 ID: 373:16489 | ItemName: Strength Splash II (3:00) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Potions
-ID: 374 | ItemName: Glass Bottle | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Potions
-ID: 375 | ItemName: Spider Eye | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
-ID: 376 | ItemName: Fermented Spider Eye | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
-ID: 377 | ItemName: Blaze Powder | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
+ID: 374 | ItemName: Glass Bottle | BuyPrice: 25.00 | SellPrice: 0.00 | BuyPrice64: 1600.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Potions
+ID: 375 | ItemName: Spider Eye | BuyPrice: 5.00 | SellPrice: 0.00 | BuyPrice64: 320.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
+ID: 376 | ItemName: Fermented Spider Eye | BuyPrice: 25.00 | SellPrice: 0.00 | BuyPrice64: 1600.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Processed Materials
+ID: 377 | ItemName: Blaze Powder | BuyPrice: 15.00 | SellPrice: 0.00 | BuyPrice64: 960.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
 ID: 378 | ItemName: Magma Cream | BuyPrice: 150.00 | SellPrice: 0.00 | BuyPrice64: 9600.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
-ID: 379 | ItemName: Brewing Stand | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Potions
-ID: 380 | ItemName: Cauldron | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Potions
+ID: 379 | ItemName: Brewing Stand | BuyPrice: 32.00 | SellPrice: 0.00 | BuyPrice64: 2048.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Potions
+ID: 380 | ItemName: Cauldron | BuyPrice: 855.50 | SellPrice: 0.00 | BuyPrice64: 54752.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Potions
 ID: 381 | ItemName: Eye of Ender | BuyPrice: 105.00 | SellPrice: 6500.00 | BuyPrice64: 6720.00 | SellPrice64: 416000.00 | WhereToBuy: | Category: Special
 ID: 382 | ItemName: Glistering Melon (Slice) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
 ID: 383:50 | ItemName: Spawn Egg (Creeper) | BuyPrice: 500.00 | SellPrice: 0.00 | BuyPrice64: 32000.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Eggs
@@ -515,18 +516,18 @@ ID: 383:96 | ItemName: Spawn Egg (Mooshroom) | BuyPrice: 0.00 | SellPrice: 0.00 
 ID: 383:98 | ItemName: Spawn Egg (Ocelot) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Eggs
 ID: 383:100 | ItemName: Spawn Egg (Horse) | BuyPrice: 5000.00 | SellPrice: 0.00 | BuyPrice64: 320000.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Eggs
 ID: 383:120 | ItemName: Spawn Egg (Villager) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Eggs
-ID: 384 | ItemName: Bottle of Enchanting | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Potions
+ID: 384 | ItemName: Bottle of Enchanting | BuyPrice: 125.00 | SellPrice: 0.00 | BuyPrice64: 8000.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Potions
 ID: 385 | ItemName: Fire Charge | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
-ID: 386 | ItemName: Book and Quill | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
+ID: 386 | ItemName: Book and Quill | BuyPrice: 72.00 | SellPrice: 36.00 | BuyPrice64: 4608.00 | SellPrice64: 2304.00 | WhereToBuy: | Category: Special
 ID: 387 | ItemName: Written Book | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
 ID: 388 | ItemName: Emerald | BuyPrice: 800.00 | SellPrice: 100.00 | BuyPrice64: 51200.00 | SellPrice64: 6400.00 | WhereToBuy: | Category: Mineral Resources
-ID: 389 | ItemName: Item Frame | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 390 | ItemName: Flower Pot | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
-ID: 391 | ItemName: Carrot | BuyPrice: 50.00 | SellPrice: 0.00 | BuyPrice64: 3200.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
+ID: 389 | ItemName: Item Frame | BuyPrice: 89.00 | SellPrice: 44.50 | BuyPrice64: 5696.00 | SellPrice64: 2848.00 | WhereToBuy: | Category: Decoration
+ID: 390 | ItemName: Flower Pot | BuyPrice: 59.00 | SellPrice: 29.50 | BuyPrice64: 3776.00 | SellPrice64: 1888.00 | WhereToBuy: | Category: Decoration
+ID: 391 | ItemName: Carrot | BuyPrice: 8.00 | SellPrice: 4.00 | BuyPrice64: 512.00 | SellPrice64: 256.00 | WhereToBuy: | Category: Food
 ID: 392 | ItemName: Potato | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
 ID: 393 | ItemName: Baked Potato | BuyPrice: 75.00 | SellPrice: 0.00 | BuyPrice64: 4800.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
 ID: 394 | ItemName: Poisonous Potato | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
-ID: 395 | ItemName: Empty Map | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
+ID: 395 | ItemName: Empty Map | BuyPrice: 570.00 | SellPrice: 0.00 | BuyPrice64: 36480.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
 ID: 396 | ItemName: Golden Carrot | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
 ID: 397 | ItemName: Head (Skeleton) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
 ID: 397:1 | ItemName: Head (Wither) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Decoration
@@ -536,7 +537,7 @@ ID: 397:4 | ItemName: Head (Creeper) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPri
 ID: 398 | ItemName: Carrot on a Stick | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Tools
 ID: 399 | ItemName: Nether Star | BuyPrice: 8000.00 | SellPrice: 0.00 | BuyPrice64: 512000.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Raw Material
 ID: 400 | ItemName: Pumpkin Pie | BuyPrice: 100.00 | SellPrice: 0.00 | BuyPrice64: 6400.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Food
-ID: 401 | ItemName: Firework Rocket | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
+ID: 401 | ItemName: Firework Rocket | BuyPrice: 23.00 | SellPrice: 0.00 | BuyPrice64: 1472.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
 ID: 402 | ItemName: Firework Star | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
 ID: 403 | ItemName: Enchanted Book | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
 ID: 404 | ItemName: Redstone Comparator | BuyPrice: 130.00 | SellPrice: 0.00 | BuyPrice64: 8320.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Redstone
@@ -547,7 +548,7 @@ ID: 408 | ItemName: Minecart (Hopper) | BuyPrice: 1307.00 | SellPrice: 0.00 | Bu
 ID: 417 | ItemName: Iron Horse Armor | BuyPrice: 2000.00 | SellPrice: 0.00 | BuyPrice64: 128000.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Armor
 ID: 418 | ItemName: Gold Horse Armor | BuyPrice: 5000.00 | SellPrice: 0.00 | BuyPrice64: 320000.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Armor
 ID: 419 | ItemName: Diamond Horse Armor | BuyPrice: 7000.00 | SellPrice: 0.00 | BuyPrice64: 448000.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Armor
-ID: 420 | ItemName: Lead | BuyPrice: 100.00 | SellPrice: 0.00 | BuyPrice64: 6400.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Tools
+ID: 420 | ItemName: Lead | BuyPrice: 30.00 | SellPrice: 0.00 | BuyPrice64: 1920.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Tools
 ID: 421 | ItemName: Name Tag | BuyPrice: 400.00 | SellPrice: 0.00 | BuyPrice64: 25600.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Special
 ID: 422 | ItemName: Minecart (Command Block) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Transportation
 ID: 2256 | ItemName: Music Disk (13) | BuyPrice: 0.00 | SellPrice: 0.00 | BuyPrice64: 0.00 | SellPrice64: 0.00 | WhereToBuy: | Category: Music Discs
